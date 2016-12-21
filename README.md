@@ -1,4 +1,4 @@
-# bitcoin original sources
+# Bitcoin Original Sources
 
 archive of original bitcoin material
 
