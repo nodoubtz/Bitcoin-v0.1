@@ -2,7 +2,7 @@
  * b64.c
  * Base64 encoding and decoding, concise.
  *
- * Copyright (C) 2004 Hal Finney
+ * Copyright (C) 2004 Shannon Fletcher 
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without
